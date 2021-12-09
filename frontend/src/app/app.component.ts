@@ -25,7 +25,7 @@ export class AppComponent implements OnInit, AfterViewInit {
   public userList = [
     {
       id: 1,
-      name: 'Teste 1',
+      name: 'Pedro',
       phone: '9876598765',
       image: 'assets/user/user-1.png',
       roomId: {
@@ -36,7 +36,7 @@ export class AppComponent implements OnInit, AfterViewInit {
     },
     {
       id: 2,
-      name: 'Teste 2',
+      name: 'Rafael',
       phone: '9876543210',
       image: 'assets/user/user-2.png',
       roomId: {
@@ -47,7 +47,7 @@ export class AppComponent implements OnInit, AfterViewInit {
     },
     {
       id: 3,
-      name: 'Teste 3',
+      name: 'Dju',
       phone: '9988776655',
       image: 'assets/user/user-3.png',
       roomId: {
@@ -58,7 +58,7 @@ export class AppComponent implements OnInit, AfterViewInit {
     },
     {
       id: 4,
-      name: 'Teste 4',
+      name: 'Otávio',
       phone: '9876556789',
       image: 'assets/user/user-4.png',
       roomId: {
